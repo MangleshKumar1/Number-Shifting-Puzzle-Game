@@ -252,7 +252,7 @@ int main()
                 case 101:// scan code of E, if user click for exit next case will automatically run
 
                 case 69: //scan code of e, if user click for exit
-                    printf("\a\a\a\a\a\a\n     Thanks for Playingv !v \n\a");
+                    printf("\a\a\a\a\a\a\n     Thanks for Playing ! \n\a");
                     //    \a produce alert sound
                     printf("\n Hit 'Enter' to exit the game \n");
                     key = readEnteredKey();
@@ -278,8 +278,7 @@ int main()
                         maxTry--;// reducing no. of attempts
                         break;
                     }
-                default:
-                    printf("\n\n    \a \a Not Allowed \a");
+                default :  printf("\n\n    \a \a Not Allowed \a");
                     //    \a produce alert sound
             }
         }
