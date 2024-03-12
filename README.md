@@ -10,3 +10,4 @@ It is a puzzle game based on Number Shifting to make a sorted matrix. It is impl
 # Output Screens
 ![image](https://github.com/MangleshKumar1/Number-Shifting-Puzzle-Game/assets/97977847/8134801f-a1c0-4fbb-9186-f205beafd893)
 ![image](https://github.com/MangleshKumar1/Number-Shifting-Puzzle-Game/assets/97977847/b5414414-acbf-443c-866f-300928d2f73b)
+
